@@ -14872,7 +14872,6 @@ const NZ = {
     whitepaperDeveloping: "Whitepaper developing.",
     smartContractImplementing:
       "Smart contract implementing and conducting a contract audit for security and reliability.",
-    pinksalePreSale: "Pinksale Pre-sale",
     pancakeSwapLaunch: "PancakeSwap Launch",
     cmcCGListing: "CMC & CG Listing.",
     dexPlatformsTrending: "DEX Platforms trending.",
@@ -15092,7 +15091,6 @@ const NZ = {
     whitepaperDeveloping: "화이트페이퍼 개발.",
     smartContractImplementing:
       "스마트 계약 구현 및 보안 및 신뢰성을 위한 계약 감사 수행.",
-    pinksalePreSale: "Pinksale 프리 세일",
     pancakeSwapLaunch: "PancakeSwap 출시",
     cmcCGListing: "CMC 및 CG 상장.",
     dexPlatformsTrending: "DEX 플랫폼 트렌드.",
@@ -15318,7 +15316,6 @@ const NZ = {
     whitepaperDeveloping: "Beyaz kağıt geliştirme.",
     smartContractImplementing:
       "Akıllı sözleşme uygulama ve güvenlik ve güvenilirlik için bir sözleşme denetimi yapma.",
-    pinksalePreSale: "Pinksale Ön Satış",
     pancakeSwapLaunch: "PancakeSwap Başlatma",
     cmcCGListing: "CMC ve CG Listeleme.",
     dexPlatformsTrending: "DEX Platformları trendleri.",
@@ -15539,7 +15536,6 @@ const NZ = {
     whitepaperDeveloping: "Phát triển whitepaper.",
     smartContractImplementing:
       "Thực hiện hợp đồng thông minh và thực hiện kiểm định hợp đồng để đảm bảo an toàn và đáng tin cậy.",
-    pinksalePreSale: "Pinksale Pre-sale",
     pancakeSwapLaunch: "Khởi động PancakeSwap",
     cmcCGListing: "CMC & CG Listing.",
     dexPlatformsTrending: "Các nền tảng DEX đang thịnh hành.",
@@ -15751,7 +15747,6 @@ const NZ = {
     establishingTheWebsite: "建立网站和社交社区渠道。",
     whitepaperDeveloping: "白皮书开发。",
     smartContractImplementing: "智能合约实施和进行合约审计以确保安全可靠。",
-    pinksalePreSale: "Pinksale 预售",
     pancakeSwapLaunch: "PancakeSwap 发布",
     cmcCGListing: "CMC 和 CG 上市。",
     dexPlatformsTrending: "DEX 平台趋势。",
@@ -102323,7 +102318,6 @@ const mFe = () => {
                         k.jsx("li", {
                           children: t("home.smartContractImplementing"),
                         }),
-                        k.jsx("li", { children: t("home.pinksalePreSale") }),
                         k.jsx("li", { children: t("home.pancakeSwapLaunch") }),
                         k.jsxs("li", {
                           children: ["2000+ ", t("home.holders"), "."],
