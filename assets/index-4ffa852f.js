@@ -85481,7 +85481,7 @@ const OH = new Do(),
               "https://tokens.coingecko.com/binance-smart-chain/all.json",
             VITE_APP_MULTICALL_CONTRACT:
               "0x963Df249eD09c358A4819E39d9Cd5736c3087184",
-            VITE_APP_TOKEN: "0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82",
+            VITE_APP_TOKEN: "0x0000000000000000000000000000000000",
             VITE_COIN_GECKO_API: "https://api.coingecko.com/api/v3",
             VITE_NATIVE_TOKEN_COINGECKO_ID: "binancecoin",
             VITE_URL: "https://www.longgrok.world/",
@@ -85692,7 +85692,7 @@ const Ik = (e) => {
       VITE_APP_TOKEN_LIST_TESTNET:
         "https://tokens.coingecko.com/binance-smart-chain/all.json",
       VITE_APP_MULTICALL_CONTRACT: "0x963Df249eD09c358A4819E39d9Cd5736c3087184",
-      VITE_APP_TOKEN: "0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82",
+      VITE_APP_TOKEN: "0x0000000000000000000000000000000000",
       VITE_COIN_GECKO_API: "https://api.coingecko.com/api/v3",
       VITE_NATIVE_TOKEN_COINGECKO_ID: "binancecoin",
       VITE_URL: "https://www.longgrok.world/",
@@ -86007,7 +86007,7 @@ const qh = (e) => (t) => {
             "https://tokens.coingecko.com/binance-smart-chain/all.json",
           VITE_APP_MULTICALL_CONTRACT:
             "0x963Df249eD09c358A4819E39d9Cd5736c3087184",
-          VITE_APP_TOKEN: "0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82",
+          VITE_APP_TOKEN: "0x0000000000000000000000000000000000",
           VITE_COIN_GECKO_API: "https://api.coingecko.com/api/v3",
           VITE_NATIVE_TOKEN_COINGECKO_ID: "binancecoin",
           VITE_URL: "https://www.longgrok.world/",
@@ -86699,7 +86699,7 @@ const Wb = (e) => "init" in e,
       VITE_APP_TOKEN_LIST_TESTNET:
         "https://tokens.coingecko.com/binance-smart-chain/all.json",
       VITE_APP_MULTICALL_CONTRACT: "0x963Df249eD09c358A4819E39d9Cd5736c3087184",
-      VITE_APP_TOKEN: "0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82",
+      VITE_APP_TOKEN: "0x0000000000000000000000000000000000",
       VITE_COIN_GECKO_API: "https://api.coingecko.com/api/v3",
       VITE_NATIVE_TOKEN_COINGECKO_ID: "binancecoin",
       VITE_URL: "https://www.longgrok.world/",
@@ -86754,7 +86754,7 @@ const Wb = (e) => "init" in e,
             "https://tokens.coingecko.com/binance-smart-chain/all.json",
           VITE_APP_MULTICALL_CONTRACT:
             "0x963Df249eD09c358A4819E39d9Cd5736c3087184",
-          VITE_APP_TOKEN: "0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82",
+          VITE_APP_TOKEN: "0x0000000000000000000000000000000000",
           VITE_COIN_GECKO_API: "https://api.coingecko.com/api/v3",
           VITE_NATIVE_TOKEN_COINGECKO_ID: "binancecoin",
           VITE_URL: "https://www.longgrok.world/",
@@ -86826,7 +86826,7 @@ const Wb = (e) => "init" in e,
                     "https://tokens.coingecko.com/binance-smart-chain/all.json",
                   VITE_APP_MULTICALL_CONTRACT:
                     "0x963Df249eD09c358A4819E39d9Cd5736c3087184",
-                  VITE_APP_TOKEN: "0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82",
+                  VITE_APP_TOKEN: "0x0000000000000000000000000000000000",
                   VITE_COIN_GECKO_API: "https://api.coingecko.com/api/v3",
                   VITE_NATIVE_TOKEN_COINGECKO_ID: "binancecoin",
                   VITE_URL: "https://www.longgrok.world/",
@@ -86972,7 +86972,7 @@ const Wb = (e) => "init" in e,
                   "https://tokens.coingecko.com/binance-smart-chain/all.json",
                 VITE_APP_MULTICALL_CONTRACT:
                   "0x963Df249eD09c358A4819E39d9Cd5736c3087184",
-                VITE_APP_TOKEN: "0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82",
+                VITE_APP_TOKEN: "0x0000000000000000000000000000000000",
                 VITE_COIN_GECKO_API: "https://api.coingecko.com/api/v3",
                 VITE_NATIVE_TOKEN_COINGECKO_ID: "binancecoin",
                 VITE_URL: "https://www.longgrok.world/",
@@ -87035,7 +87035,7 @@ const Wb = (e) => "init" in e,
                       VITE_APP_MULTICALL_CONTRACT:
                         "0x963Df249eD09c358A4819E39d9Cd5736c3087184",
                       VITE_APP_TOKEN:
-                        "0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82",
+                        "0x0000000000000000000000000000000000",
                       VITE_COIN_GECKO_API: "https://api.coingecko.com/api/v3",
                       VITE_NATIVE_TOKEN_COINGECKO_ID: "binancecoin",
                       VITE_URL: "https://www.longgrok.world/",
@@ -87154,7 +87154,7 @@ const Wb = (e) => "init" in e,
               "https://tokens.coingecko.com/binance-smart-chain/all.json",
             VITE_APP_MULTICALL_CONTRACT:
               "0x963Df249eD09c358A4819E39d9Cd5736c3087184",
-            VITE_APP_TOKEN: "0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82",
+            VITE_APP_TOKEN: "0x0000000000000000000000000000000000",
             VITE_COIN_GECKO_API: "https://api.coingecko.com/api/v3",
             VITE_NATIVE_TOKEN_COINGECKO_ID: "binancecoin",
             VITE_URL: "https://www.longgrok.world/",
@@ -108231,7 +108231,7 @@ const Fje = () => {
       b = () => {
         const ne = u.find(
           ({ address: se }) =>
-            se === "0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82"
+            se === "0x0000000000000000000000000000000000"
         );
         return (ne == null ? void 0 : ne.address) || "";
       },
